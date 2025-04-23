@@ -16,15 +16,3 @@ Required Software:
 Licensed Tableau Desktop - https://www.tableau.com/trial/tableau-software
 
 Python Jupyter Notebook Editor/IDE - (we used VSCODE: for main installations) - https://code.visualstudio.com/ 
-_____________________________________________________________________________________________________________
-
-**Directory Structure**
-
-DOC 
--- Written Deliverables (Poster, Report)
--- Product Feedback - Experiment -> .csv of survey respondents' feedback
-
-CODE 
--- DEMO Folder (DEMO/Snapshot Version - Experiment) -> see above!
--- Code Folder (Full Model Code) -- use dva_modeling_final.ipynb -> .parquet are the input files and models are found in .joblib (can skip model training via those files)
--- Tableau Viz Folder (Full Dashboard Version) - can follow steps 3-4 of DEMO instructions for full viz setup (albeit in Tableau Viz Folder). 
